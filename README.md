@@ -1,2 +1,2 @@
-# desafio-dio-gitgithub-1o-repositorio
+# Desafio Dio Gitgi/Github - primeiro repositório
 Projeto do desafio da Dio - Hit/GitHub
