@@ -1,0 +1,9 @@
+Link de referências técnicas para estudos
+
+1 - Mapa para não se perder no mundo do desenvolvimento
+    https://www.notion.so/Mapa-para-n-o-se-perder-no-mundo-do-desenvolvimento-74e4e6c6fecc48e0910ef2f86622f3e3
+
+2 - Guias de referências de HTML 5 e CSS3
+    https://www.hostinger.com.br/tutoriais/codigos-html-prontos-guia-pdf
+    https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf
+    https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element
