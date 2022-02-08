@@ -1,5 +1,5 @@
 # Desafio Dio Gitgi/Github - primeiro repositório
-Projeto do desafio da Dio - Hit/GitHub
+Projeto do desafio da Dio - Git/GitHub
 
 ## Links Úteis
 
